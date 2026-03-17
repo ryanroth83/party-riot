@@ -1,0 +1,20 @@
+# Hugo default output directory
+public/
+
+# Image processing cache
+resources/
+
+# Local development environment files
+.hugo_build.lock
+hugo_stats.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# If you use a CSS/SASS preprocessor
+.sass-cache/
+
+# Optional: If you want to keep your 'data' or 'assets' but ignore temporary edits
+# bin/
+# obj/
